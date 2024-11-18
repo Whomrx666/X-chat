@@ -30,7 +30,7 @@ $ /join #your channel name
 ## Instructions
 - **first**: Install tools according to the instructions above
 - **second**: If you are already enter to the tool, enter the IRC server above first and wait until it is connected
-- **third**: After connecting to the IRC server, enter your name as in the example above, for example == > /nick hacker
+- **third**: After connecting to the IRC server, enter your name as in the example above, for example ==> /nick hacker
 - **fourth**: After that, create your own channel or join a channel to chat there using the method above, for example ==> /join #anonymous
 - **last**: Congratulations, you can now chat safely and privately
 
